@@ -12,5 +12,3 @@ def search(root,key):
 
 	# Key is smaller than root's key
 	return search(root.left,key)
-
-# This code is contributed by Bhavya Jain
